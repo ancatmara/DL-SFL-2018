@@ -6,7 +6,7 @@
 ### Работа с текстовыми документами: Microsoft Word
 
 Текстовые редакторы:
-* Microsoft Word
+* Microsoft Word_[^1]_
 * iWorkPages
 * OpenOffice Writer
 * LibreOffice Writer
