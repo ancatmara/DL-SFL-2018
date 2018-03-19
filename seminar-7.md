@@ -6,8 +6,6 @@
 
 ![](https://lh4.googleusercontent.com/0diI5K1jJbVH8jdloY52FldZp3KHF26zQ9QumAsg7NCh6QxQqbe2JTnFcJcXVoLujYn0mV7pXK9IAOpJkl8pmdHCvv1Mznrn6yKDF3cDU6W1YRLRI1mpPuFNeCWKhyAacPfjkAGSlKkoJpt0QQ)
 
-
-
 ![](https://lh5.googleusercontent.com/B06ONokWApeu-6bIbUx73WryIxGsdQz0-hZx-30K-bXHkP2EpGQL6I9YPQ8A7R3yfZuKFBCo9fJ90VaVl3cg-Vbrun5NlUs_-m4yrA0ODLkpxqXxbBLv7CGMNmsFLEpo79K25LK0wc2AADT0xQ)
 
 ### SketchEngine
@@ -20,15 +18,7 @@
 
 ![](https://lh4.googleusercontent.com/oROllQJRX_0FMfS8EuK8PmIV0P7Q8o226usTndb1s9G3XDRMz1sLS-G-JPNmt_sBFT-r8H7pIb-FfsTY-rVcK366uavKuU19ov97vZDVxxQzjQu6sz3fUf_eImpdpOG2lpIwGdfA)
 
-### Параллельные корпуса
 
-[Open Parallel Corpus](http://opus.nlpl.eu/)
-
-[Skuuper Cleaner](http://cleaner.skuuper.com/)
-
-[Инструкция по работе со Skuuper](https://docs.google.com/document/d/1G5TmBY4Dx2AMqhYFGMG5iuof4A7B7zweReLprz1wUl8/edit)
-
-[Тексты для задания](https://drive.google.com/drive/u/0/folders/1cLextUcl2W-zt7yBxSFD8H612EUuTLbz )
 
 ### AntConc
 
