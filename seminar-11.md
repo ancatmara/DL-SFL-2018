@@ -81,8 +81,6 @@
 
 ![](/assets/гефи.png)
 
-
-
 Сразу после загрузки граф будет выглядеть вот так.
 
 ![](/assets/gephi3.png)
@@ -207,6 +205,9 @@
 [Туториал](https://seinecle.github.io/gephi-tutorials/)
 
 [Инструкция по установке Gephi](https://www.dropbox.com/s/4cp2rf0za8i1x7q/Установка Gephi.pdf?dl=0)
+
+[Easy Linavis](https://ezlinavis.dracor.org/), онлайн-инструмент для создания собственных сетей, изначально разработанный для анализа драмы
+
 
 ##### Датасеты
 
