@@ -392,6 +392,8 @@ Gephi позволяет вручную менять размер, цвет и �
 
 [Туториал](https://seinecle.github.io/gephi-tutorials/)
 
+[Инструкция по установке Gephi](https://www.dropbox.com/s/4cp2rf0za8i1x7q/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0%20Gephi.pdf?dl=0)
+
 ##### Датасеты
 
 [https://github.com/gephi/gephi/wiki/Datasets](https://github.com/gephi/gephi/wiki/Datasets)
@@ -400,7 +402,7 @@ Gephi позволяет вручную менять размер, цвет и �
 
 [http://konect.uni-koblenz.de/](http://konect.uni-koblenz.de/)
 
-[Короли Шотландии](https://www.dropbox.com/s/topks90l1gnjcbd/1_scotland.gexf?dl=0)
+[People of Medieval Scotland](https://www.dropbox.com/s/topks90l1gnjcbd/1_scotland.gexf?dl=0)
 
 [Game of Thrones 1](https://www.dropbox.com/s/0l7d6xdlwjzbyk4/2_StormOfSwords.csv?dl=0)
 
