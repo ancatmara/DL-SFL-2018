@@ -204,9 +204,7 @@
 
 [http://www-personal.umich.edu/~mejn/netdata/](http://www-personal.umich.edu/~mejn/netdata/)
 
-[http://konect.uni-koblenz.de/](http://konect.uni-koblenz.de/)
-
-А вот так выглядит интернет!
+[http://konect.uni-koblenz.de](http://konect.uni-koblenz.de/)
 
 ![](https://ancatmara.gitbooks.io/digital-literacy/content/assets/rsz_internet_network.png)
 
